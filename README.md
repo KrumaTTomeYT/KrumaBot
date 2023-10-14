@@ -1,4 +1,5 @@
 # KrumaBot
+### Un pequeño proyecto hecho con la librería de JavaScript "aoi.js"
 ### Toda informacion sobre KrumaBot, incluyendo "Términos de Servicio" y "Política de Privacidad"
 # Informacion general
 ### Nombre original: **KrumaBot✨**
